@@ -72,7 +72,7 @@ border-top: 0;
      margin-top: 30px;
     border-radius: 60%;
     height: 50px;
-    width: 50px;
+    width: 300px;
    
     
 }
@@ -88,7 +88,7 @@ border-top: 0;
     font-family: 'Caveat', cursive;
 }
 #p{
-    font-size: 20px;
+    font-size: 40px;
     color: #66bfbf;
     font-style: italicised;
     
