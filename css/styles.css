@@ -88,8 +88,9 @@ border-top: 0;
     font-family: 'Caveat', cursive;
 }
 #p{
-    font-size: 40px;
+    font-size: 30px;
     color: #66bfbf;
+    font-style: italicised;
     
 }
 .skill-row{
