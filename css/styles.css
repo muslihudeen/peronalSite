@@ -94,7 +94,6 @@ border-top: 0;
     
 }
 
-
 .product-card {
             width: 300px;
             border: 2px solid #ddd;
@@ -133,7 +132,6 @@ border-top: 0;
         .buy-btn:hover {
             background: #e68a00;
         }
-
 
 .skill-row{
     width: 50%;
